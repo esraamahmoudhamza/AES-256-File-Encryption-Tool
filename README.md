@@ -78,4 +78,18 @@ Stay connected and follow for more projects & tutorials 🚀
 - 🎵 [TikTok](https://www.tiktok.com/@esraa.codes)  
 - ▶️ [YouTube](https://www.youtube.com/@EsraaCodes)  
 - 🌐 [GitHub](https://github.com/esraamahmoudhamza)
+
+---
+
+## 🪪 License
+
+This project is licensed under the **MIT License**.
+
+### ⚖️ Attribution
+
+This project was created by **Esraa Mahmoud Hamza**.
+If you use, modify, or share this project, you **must give proper credit** by linking back to the original repository:
+👉 [https://github.com/esraamahmoudhamza/AES-256-File-Encryption-Tool](https://github.com/esraamahmoudhamza/AES-256-File-Encryption-Tool)
+
+© 2025 Esraa Mahmoud Hamza. All rights reserved.
   
